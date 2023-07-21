@@ -1,0 +1,1068 @@
+,Unnamed: 0,post,responses
+0,0,"I read the blog post and paper for Agent57 and thought it was pretty interesting but haven't seen people talk about it much since then. Has it been used for anything? If not, why hasn't it been very influential? ",The post does not violate any of the above rules.
+1,1," Hey all,
+
+I want to retrieve all speeches from congressional records from the house of representatives where the politician talks about the tax behavior of companies. I currently load the records into my script and divide the records into all the speeches. Then I use keyword search to determine whether the politician talks about tax behavior of companies. I want to replace this keyword search with an LLM which classifies the speeches. I will analyze > 50,000 speeches, so I dont want to use a costly model like GPT4. Actually I want to spend max 10€ in total. What LLM's, which I can access via an API, would you recommend for this task?
+
+Thanks in advance",As
+2,2,"Hey, I'm working on a project that lets me get trending topics from different niches along with a small description. For example, if the niche is Machine Learning, then you could have a bunch of trending topics like AppleGPT or LLaMA2. 
+The best part about this imo is that you could also narrow it down to topics trending on certain platforms like reddit or twitter. 
+
+Let me know if you'd be interested in such a thing!",The
+3,3,"I was being forced by my college to do a mini project on Machine learning.Need help for source code and documentation.
+
+Thank You.","No rule is violated. The post is asking for help with a machine learning project and is related to ML research. The post is also not promoting any specific website or project and does not violate the ""beginner or career-related questions"" rule."
+4,4,"I've been excitedly reading the news and discussions about Llama 2 the past couple of days, and got a chance to try it this morning.
+
+I was underwhelmed by the coding performance (running the 70B model on https://llama2.ai/).  It has consistently failed most of the very-easy prompts that I made up this morning.  I checked each prompt with ChatGPT 3.5, and 3.5 got 100% (which means these prompts are quite easy).  This result was surprising to me based on the discussion and articles I've read.  However, digging into the paper (https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/), the authors are transparent that the coding performance is lacking.
+
+Are my observations consistent with the results others are getting?
+
+I haven't had time to keep up with all the open-source LLMs being worked on by the community; are there any other models that approach even ChatGPT 3.5's coding performance? (Much less GPT 4's performance, which is the real goal.)",Based
+5,5," 
+
+### Apple Kind of Announces “Apple GPT” but Very Little is Known
+
+“Apple GPT”, the first generative AI product from Apple. Is suspected to be in [***development***](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvYXJ0aWNsZXMvMjAyMy0wNy0xOS9hcHBsZS1wcmVwcy1hamF4LWdlbmVyYXRpdmUtYWktYXBwbGUtZ3B0LXRvLXJpdmFsLW9wZW5haS1hbmQtZ29vZ2xlP3NyZWY9eTNZTUNKNGUmdXRtX3NvdXJjZT1haWJ1c2luZXNzYnJpZWYuYmVlaGlpdi5jb20mdXRtX21lZGl1bT1yZWZlcnJhbCZ1dG1fY2FtcGFpZ249YXBwbGUtaXMtZmluYWxseS1lbnRlcmluZy10aGUtYWktbWFya2V0LXdpdGgtYXBwbGUtZ3B0IiwicG9zdF9pZCI6ImU1NDI0YTkyLTBjN2ItNDc3Mi1hNDgzLTI2ZjI0ZjA1MDRkNyIsInB1YmxpY2F0aW9uX2lkIjoiMTM0ZTM1YTktOWFkYy00ZDc0LTlhYzUtOWY3YmQ4NzlhY2UzIiwidmlzaXRfdG9rZW4iOiJiYTUxNjE5Ni1mMmY0LTRmZDgtOTkyNy0yZmFmNTNiYTZhYTgiLCJpYXQiOjE2ODk4NTU3MzguOTgsImlzcyI6Im9yY2hpZCJ9.441MImsSoxRGHgUkwX0gBAFXhSC4TpHCLciQkXj8SVU).
+
+What we know so far is that Apple is developing its AI with secrecy. Only a few teams are currently working on the project. On top of this is their new LLM, “Ajax”, developed only for their AI.
+
+There is a lot we do not know.
+
+When will “Apple GPT” be released? To whom is the AI for? What is its purpose? How is Apple handling distribution? And will the technology be integrated into existing products?
+
+Here is what you can expect:
+
+*When will “Apple* *GPT” be released?*
+
+Some speculate as early as next year, while others believe the announcement will come sooner. But knowing Apple it may be a while. Thanks to their history of trying to achieve perfection.
+
+*To whom is “Apple* *GPT” for?*
+
+Most likely Apple users. Creating an exclusive AI, only for the Apple ecosystem. But it is possible the AI will be available for the public and even free to use.
+
+*How is* *Apple* *handling distribution?*
+
+For Apple distribution will not be a problem. As they can count on Apple users. But, distribution across the globe is a different story.Not everyone has or wants Apple products, so getting their AI to them would be difficult.
+
+*Will the technology be integrated into existing products?*
+
+Yes and no, I would like to know how Apple would do this.It is possible through Siri, their voice assistant, or some other interface.But if Apple does integrate AI into the ecosystem, it would be a game changer for all of us.
+
+Imagine being able to talk to your phone and have it complete tasks in the background. That is the type of innovation we are talking about.
+
+This is not the first nor the last Apple AI product, or as they like to call it, machine learning.
+
+#### How would Apple stack up in the AI market?
+
+It is a busy marketplace for AI.New AI chatbots are being released almost monthly at this point.With larger and more innovative LLMs being built every day.
+
+Take a quick step back and look at the AI marketplace:
+
+* Google Bard
+* Microsoft Bing Chat
+* Meta LLaMA 2
+* ChatGPT-4
+* Hugging Face Models
+* AWS Falcon
+
+As you can see the market is quite crowded.
+
+Everyone has their piece of the pie. Their own niche, and followers. Followers that use a specific AI daily and will continue to do so. At least until something better comes along.
+
+*Where would or could* *Apple* *fit in?*
+
+The only place I see Apple making a name for itself is with its consumers.
+
+Apple cannot hit the business AI marketplace, or even the generative AI one as well.
+
+They are too late.By the time their chatbot is released, users will already have developed a go-to AI.
+
+So what is left? Their consumers. The users that are “stuck” in the Apple ecosystem.
+
+Apple has a cool trick of getting their users to buy a new product or get a new accessory. Without it, the ecosystem becomes harder to navigate.
+
+It is possible that Apple could do something like this with AI. Integrate AI into their ecosystem so that users are stuck with it. Making their lives easier and harder, so that they must live with it. Solving distribution and eventually data issues.
+
+Although I love Apple getting into AI, it may be a long shot. Apple does not have the capabilities to bring massive change to AI and thus the world.
+
+Yes, it is still quite early. But that is the funny thing with AI. It is moving extremely fast. Innovation is far outpacing many expectations. And will continue to do so.
+
+Can Apple *keep up* with the new AI trends? Then release an effective product, that users want.
+
+That is a tall order, for any company. **Knowing** **Apple, they may find a way**.
+
+&#x200B;
+
+Source: [here](https://aibusinessbrief.beehiiv.com/p/apple-finally-entering-ai-market-apple-gpt)
+
+I am pretty much engulfed in AI at the moment writing about stories and learning how others can use the technology. So I thought I'd share. ",As
+6,6,"[slmqa on GitHub](https://github.com/alasdairforsythe/slmqa)
+
+I spent hours searching for a way to compare the quality of the text-generation of instruct-tuned small language models. Failing to find an evaluation simple enough for a small model, and easy to use, it was easier to create one. I'm sharing it here in case anyone else finds it useful.
+
+#### slmqa
+
+slmqa is a simple question-answer evaluation benchmark for small language models. It includes a dataset of 909 general knowledge question-answer pairs. The QA pairs were generated with gpt-3.5-turbo, stripped of duplicates and answers shorter than 5 characters, and cleaned by hand.
+
+The score is the percentage of correct answers.
+
+### Sample
+
+```json
+{
+        ""question"": ""What is the name of the highest mountain in the world?"",
+        ""answer"": ""everest""
+},
+{
+        ""question"": ""What is the name of the famous Austrian composer who wrote the Ninth Symphony?"",
+        ""answer"": ""beethoven""
+},
+{
+        ""question"": ""Which country is the largest by area?"",
+        ""answer"": ""russia""
+},
+```",As
+7,7,"
+After researching quite heavily on how to protect Python based inference code and models when they are deployed on client infrastructure. 
+I came across pyinstaller and pyoxidizer but looks like they do not work that well.
+So I concluded that the best way is to convert critical pipelines to C++ is that correct ?",The post violates the rule 'Link posts must include context (ie: a comment in the reddit thread linking to
+8,8,"With the emergence of new models gaining more popularity such as Claude 2, Llama 2 which has the potential for better fine-tuned models, the development of Bard, the controversies surrounding ChatGPT performing worse and with the already-existing content filters that limits the capabilities of models not just subjecting to moral standards and policies that align with human values but also limits it to other factors that may not fall under objective morality or maybe just it being too sensitive, is there a certain model you think is currently the best overall one at least for now other than GPT-4? 
+
+I'm really curious to know what the community thinks as I've searched a lot and found a lot of clashes in opinions regarding what models are considered superior over others and the clickbait-ish talks and titles about model so-and-so being ""The ChatGPT Killer"". 
+
+With all this info in consideration, what model(s) do you ACTUALLY use the most? I'd be grateful if you shared your thoughts about this issue and thanks for your time.",As
+9,9,"I've uploaded a reddit dataset that has multiple Reddit posts along with the most upvoted comment for each post. The dataset is collected from 9 subreddits. 
+
+I'm looking for cool project ideas with this data. Let's discuss!
+
+
+https://www.reddit.com/r/datasets/comments/154pe3y/reddit_posts_dataset_with_the_top_comment/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1",As
+10,10,"I just created a [Huggingface Space](https://huggingface.co/spaces/renumics/stable-diffusion-select-best-images) showcasing how to interactively explore the outputs of a Stable Diffusion model via CLIP Embeddings.
+
+[Embedding-based image similarity plotted in 2D via dimensionality reduction.](https://i.redd.it/wli2f878y3db1.gif)
+
+The visualization is done using the tool [Spotlight](https://github.com/Renumics/spotlight).
+
+Also, I created a [tutorial](https://medium.com/@daniel-klitzke/automatically-selecting-the-best-images-generated-by-stable-diffusion-a90d5018c634) showcasing how to automatically select promising prompts and images from a large dataset. It is roughly based on the following approach:
+
+1. Calculate the **CLIP Score** for all prompt-image pairs to **measure** generation quality.
+2. Generate **CLIP Embeddings** to be able to calculate a **similarity** between images (or texts)
+3. Embedding-based **identification of clusters** that have an exceptionally high CLIP Score.
+
+Have you ever explored any (automatic) evaluation strategies for image generation models? I would love to learn about some alternative approaches.",It
+11,11,"I built an app that lets you view a brief summary of any youtube video so you can avoid annoying clickbait content or just quickly get the gist of a video. Was inspired by a similar app a member of this sub built that I've been using for months now:
+
+[https://www.reddit.com/r/MachineLearning/comments/10ys3md/p\_im\_using\_instruct\_gpt\_to\_show\_anticlickbait/](https://www.reddit.com/r/MachineLearning/comments/10ys3md/p_im_using_instruct_gpt_to_show_anticlickbait/)
+
+I couldn't get summaries for some videos/channels I wanted so I built a similar app that uses the web version of chatGPT3.5/4 rather than the API so that summaries can be generated for free by anyone logged in to ChatGPT. Available as a Chrome extension here:
+
+[https://chrome.google.com/webstore/detail/youtube-video-summaries-p/bajbfiocljodaddcdfkndlmgjbjbmjkf](https://chrome.google.com/webstore/detail/youtube-video-summaries-p/bajbfiocljodaddcdfkndlmgjbjbmjkf)
+
+Take it for a spin, leave a review, and/or some feedback -- would love some feedback on the prompts I'm using. Thanks!",There
+12,12,"Hello ! 
+
+I'm working on a project of NLP classification with more or less 13k classes. The best model I had so far is a fine-tuned LLM encoder. However, with the number of classes I have now, it is very slow. So I searched for ways to deal with that, and found 2:
+
+1. Hierarchical Softmax
+2. Negative Sampling
+
+However, both seems to have been used nearly only in the context of word2vec training, so I wonder if there is a reason why that would not work for a ""classical"" classification ? (or just my kind of problem too rare ?) 
+
+Also, I did find really few implementations of those with Pytorch, a fortiori with transformers... Is it because there is something better ? Do you know, if not, some recent implementations ?
+
+&#x200B;
+
+Thank you in advance !",This
+13,13,"This is specifically in regards to automatic mask generation, where SAM samples a grid of points (32x32 grid by default) and creates a mask for each point prompt. Duplicates are then removed by NMS. Ideally this process shouldn't be able to auto-generate complex structures that require multiple positive/negative point prompts, and that is what I have observed when using the models locally.
+
+But, the ""Everything"" option in the web demo([https://segment-anything.com/demo](https://segment-anything.com/demo)) does insanely well. It can even segment occluded objects into a single disconnected mask. It is supposed to be running in the browser and is reasonably fast, so they can't be doing some super heavy pre/post-processing either. 
+
+Anyone have an idea of what the ""Everything"" option in the web demo is doing?",The
+14,14,[https://github.com/Maknee/minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp),The post does not violate any of the rules mentioned in this post.
+15,15,"I have a stacking ensemble to predict probability of the total going under and a separate model that’s practically the same for the over. Right now on the under my test set size .2 which is 1400 game logs of my dataset and in order for my model to make a pick it has to meet a certain threshold. On the test set it’s precision on games that met the threshold (predicted prob > threshold) is .56, but the issue is it only made 132 picks. Is this enough to even consider using? I also have the average implied probability of the odds for the correct picks which was .5258 so roughly -111. I feel like 132 picks in 1400 games for just under is definitely enough in terms for the actual application too sports-betting, but I’m not sure if it’s enough to consider the results reliable. Essentially, my question is do I need to make the test set bigger or make my dataset itself bigger?",No
+16,16,"I wanted to play with Llama 2 right after its release yesterday, but it took me \~4 hours to download all 331GB of the 6 models. If you don’t have 4 hours or 331GB to spare, I brought all the models into XetHub, where it’s now available for you to use: [https://xethub.com/XetHub/Llama2](https://xethub.com/XetHub/Llama2).
+
+I used xet mount to get started in seconds, and within a few minutes, I had the model generating text without needing to download everything or make an inference API call.  
+
+
+`# From a g4dn.8xlarge instance in us-west-2:`
+
+`Mount complete in 8.629213s`
+
+`# install model requirements, and then ...`
+
+`(venv-test) ubuntu@ip-10-0-30-1:~/Llama2/code$ torchrun --nproc_per_node 1 example_chat_completion.py \`
+
+`--ckpt_dir ../models/llama-2-7b-chat/ \`
+
+`--tokenizer_path ../models/tokenizer.model \`
+
+`--max_seq_len 512 --max_batch_size 4`
+
+`> initializing model parallel with size 1`
+
+`> initializing ddp with size 1`
+
+`> initializing pipeline with size 1`
+
+`Loaded in 306.17 seconds`
+
+`User: what is the recipe of mayonnaise?`
+
+`> Assistant:  Thank you for asking! Mayonnaise is a popular condiment made from a mixture of egg yolks, oil, vinegar or lemon juice, and seasonings. Here is a basic recipe for homemade mayonnaise:`
+
+`...`
+
+  
+Detailed instructions here: [https://xethub.com/XetHub/Llama2](https://xethub.com/XetHub/Llama2).
+
+I’ll add the -GGML variants next for the folks using llama.cpp.  Don’t forget to register with Meta to accept the license and acceptable use policy for these models!",No
+17,17,"Hugging Face has a big emphasis on open source and the democratization of ML. Still, from a different look, they are making a ton of money from freely distributed open-source models of researchers and engineers without sharing a dime. I like what Hugging Face does, but it doesn't look right to me. 
+
+I understand it's a company and needs to make money but at the very least some kind of revenue sharing would make more sense. 
+
+I wonder what the community thinks about it. 
+
+Maybe some people who distribute their models on HF can comment on thi topic",No
+18,18,"According to the paper Neural Networks are Decision Trees (Aytekin 2022), every single type of neural network - regardless of the activation functions used - can be reduced to an equivalent decision tree with equivalent accuracy: [\[2210.05189\] Neural Networks are Decision Trees (arxiv.org)](https://arxiv.org/abs/2210.05189)
+
+That is not to say that decision trees necessarily tend to converge on the same types of solutions as neural networks in training; only that a trained neural network can be represented by an equivalent decision tree.
+
+The algorithm, as mentioned in the paper, is:
+
+*Algorithm 2: Algorithm of converting neural networks to decision trees*
+
+*1 Initialize Tree: Set root.*
+
+*2 Branch all leafs to k nodes, decision rule is first effective filter.*
+
+*3 Branch all nodes to k more nodes, and repeat until all effective filters in a layer is covered.*
+
+*4 Calculate effective matrix for each leaf via Eq. 5. Repeat 2,3.*
+
+*5 Repeat 4 until all layers are covered.*
+
+*6 return Tree*
+
+I have 2 questions related to this:
+
+1. Is anyone aware of the inference performance implications of this? In my general understanding, decision trees tend to be much more computationally efficient at both training and inference. So is it true that this represents an opportunity to decrease the processing load of inference on neural networks, or does the computational complexity of performing inference with an equivalent decision tree tend to approach or surpass the equivalent neural network?
+2. Question 2 is kind of a moot point if #1 doesn't provide performance benefits. But assuming it does, does anyone know of techniques in 2023 for reducing a neural network to an equivalent decision tree? ",As
+19,19,"Is it worth the time to pour time and effort into NeurIPS's annual competitions? Winners got to present at NIPS workshops.
+
+I'm currently pursuing a Master degree in CS now and have to compete in one of them. I looked up past winners, all of them are from Top CS schools or Large Tech's research teams. So I kind of figured how hard they are to compete.
+
+But could someone give me some general advices? I have talked to some of my friends pursuing phd but they are not familiar with the NIPS competition track.
+
+Any help is appreciated. Thank you strangers!",As
+20,20,"Minari now has full support for Dict, Tuple, Discrete, Box, and Text spaces without flattening, explicit dataset versioning, plus subsets of action/obs spaces in datasets. Additionally, new v1 versions of each dataset were released to comply with the new dataset format. The new datasets do not have observation and action flattening (relevant for pointmaze datasets), introduce serialized representations of action and observation spaces in the observation\_space and action\_space fields, and specify minari version compatibility with the minari\_version field. Python 3.11 compatibility was added, with removal of 3.7 support as it has reached end-of-life. We also include two new tutorials: observation space subsetting, and behavior cloning with rl\_zoo3 and pytorch DataLoader.
+
+Announcement Tweet: [https://twitter.com/FaramaFound/status/1681730025513467931](https://twitter.com/FaramaFound/status/1681730025513467931)
+
+Release Notes: [https://github.com/Farama-Foundation/Minari/releases/tag/v0.4.0](https://github.com/Farama-Foundation/Minari/releases/tag/v0.4.0)",The
+21,21,"Hey [r/MachineLearning](https://www.reddit.com/r/MachineLearning/),
+
+The team at TruEra recently released an open source project for evaluation & tracking of LLM applications called [TruLens-Eval](https://github.com/truera/trulens/tree/main/trulens_eval). We’ve specifically targeted retrieval-augmented QA as a core use case and so far we’ve seen it used for comparing different models and parameters, prompts, vector-db configurations and query planning strategies. I’d love to get your feedback on it.
+
+The core idea behind the project is feedback functions. Analogous to labeling functions, feedback functions are models used to score the text produced by LLMs. We already have a variety of out-of-the-box feedback functions to use for eval including relevance, language match, sentiment and moderation that can be applied to inputs, outputs or intermediate steps of your application.
+
+On top of eval, there’s also built-in tracking of cost and latency.
+
+We made it easy to integrate with different setups using connectors for langchain, llama-index + an option to use it without a framework.
+
+[Langchain Quickstart Colab](https://colab.research.google.com/github/truera/trulens/blob/releases/rc-trulens-eval-0.5.0/trulens_eval/examples/colab/quickstarts/langchain_quickstart_colab.ipynb)
+
+[Llama-Index Quickstart Colab](https://colab.research.google.com/github/truera/trulens/blob/releases/rc-trulens-eval-0.5.0/trulens_eval/examples/colab/quickstarts/llama_index_quickstart_colab.ipynb)
+
+[No Framework Quickstart Colab](https://colab.research.google.com/github/truera/trulens/blob/releases/rc-trulens-eval-0.5.0/trulens_eval/examples/colab/quickstarts/no_framework_quickstart_colab.ipynb)
+
+Last, the project comes with a streamlit dashboard for visualization of your experiments and associated metrics.
+
+[TruLens dashboard for comparing different app versions](https://preview.redd.it/q68b1l27pycb1.jpg?width=1233&format=pjpg&auto=webp&s=cfb1704624a8b6642b249a32d0afee85ea9f62d9)
+
+Please let us know what you use this for or if you have feedback! And thanks to all contributors to this project and the open source community!",The
+22,22,,The post violates rule 4 - 'Non-arxiv link posts only allowed on weekends' and thus is not allowed.
+23,23,I run into multiple errors each time I try to use inception scores and Im trying to evaluate the differences between using the Inception Score and Fréchet Inception Distance.,"As an AI language model, I cannot determine whether the post violates any of the given rules. The post does not explicitly state the specific errors encountered, and it may not have any links to external resources. Therefore, I cannot provide a definitive answer to this question."
+24,24,"Hello Redditors!
+
+It's pretty well known that LLMs have firmly established themselves as leaders in the field of natural language processing, consistently pushing the limits of language comprehension and generation, which is widely acknowledged.
+
+I spent a little time playing around with few-shot prompting for OpenAI's Davinci model and I discovered that noisy data still has drastic effects even on powerful LLMs like Davinci.
+
+[mislabeled few-shot examples harms LLM performance drastically](https://preview.redd.it/st5c6w0i1ycb1.png?width=1994&format=png&auto=webp&s=41116a2e302c08ea23729be0bc56ae06928fda3b)
+
+I wrote up a [quick article](https://www.kdnuggets.com/2023/07/ensuring-reliable-fewshot-prompt-selection-llms.html) in KDNuggets that shows how I used data-centric AI to automatically clean the noisy few-shot examples pool in order to achieve more accurate predictions. The resulting few-shot prompt with accurately labeled examples produced **20% fewer errors** than the original one with mislabeled examples.
+
+This one was quite eye-opening for me and I hope you find it is as interesting as I did. Let me know what you think!",As
+25,25,"# Title Fix: Upstage AI's 30B Llama 1 Outshines 70B Llama2, Dominates #1 Spot in OpenLLM Leaderboard!
+
+We are thrilled to share an extraordinary achievement with you today. Our team at Upstage AI has reached a significant milestone. Our fine-tuned 30B model, Llama 1, has ascended to the coveted #1 position on the prestigious global OpenLLM Leaderboard. In a thrilling turn of events, our fine-tuned 30B Llama 1 has outperformed the 70B model of Llama2.
+
+Please check out the leaderboard and download/use our model at [https://huggingface.co/spaces/HuggingFaceH4/open\_llm\_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+
+Once again, we are happy to bring this news to all of you. Stay tuned for more exciting updates from Upstage AI!
+
+https://preview.redd.it/m7xzlzrpyxcb1.png?width=2310&format=png&auto=webp&s=23429478474d23071837fe9c2e85e6ddea10039c",The
+26,26,"So  very recently, a new paper was published to ArXiV called ""Retentive Network: A Successor to Transformer for Large Language Models"": [https://arxiv.org/abs/2307.08621](https://arxiv.org/abs/2307.08621).  The title makes a fairly strong claim regarding the success of the  model: transformers have long been established as among the best  general-purpose learning techniques in the deep learning literature.  Self-describing as a ""successor to transformer"" is therefore not to be  taken lightly.
+
+From what I can  tell, the math checks out, and the authors demonstrate an intriguing  dualism between their transformer-like ""retention"" (analogous to  attention) and an equivalent recurrent formulation. The core idea is  that you can train in parallel (as with transformers) and then run  inference in sequence with O(N) time and memory requirements in the  length of the sequence (traditional transformers are O(N\^2)).
+
+If  the results can be replicated/peer-reviewed, this could pave the way  for substantial all-round improvements to large language modelling. The  authors have indicated that they will make code available relatively  soon.
+
+For now though, there's an  unofficial implementation on GitHub which hopefully will allow those  interested to play around with the model and verify some results. The code is publicly available and can be found by searching  Jamie-Stirling/RetNet on GitHub.",As
+27,27,"Hi I have a bunch of graphs that I would like to divide into batches for parallel processing but since the edge indices are not of the same shape I am unable to stack them into a batch tensor like how we normally do for normal euclidian data. I tried to find some documentation on it but I was unable to understand the exact process.
+
+Basically most documentation show them concatenating all the graphs together into a larger graph and then passing it through a GCN module but I don't think that would work since graphs are clearly distinct and independent of each other. Even if I concatenate them together, pass them through through the module and then separate them later using the same bounds by which I concatenated would it cause any unpredictable behaviour (even though the graphs technically do not have edge connecting them)? Do I have to code this logic myself or is it hidden somewhere in PyG since I was unable to find it. I am new to GCNs so I just want to see if I have it right before I commit to it.",As
+28,28,"
+I am looking for a LLM that can handle more than 10000 tokens at a time, with large model size and a good context understanding. 
+
+I tried chatGPT but it seems to forget some of the context after 4-5 prompts. 
+
+I tried PI.ai and it first understood all the context before forgetting it as it asked questions to better understand what all the variables are. 
+
+The problem is logical and mathematical (may use Dijkstra's algorithm to solve it) and try to optimize production while keeping waste as little as possible. 
+The solution would ideally include a python script that can be used for solving the problem with different inputs.  
+
+What do you guys would recommend ?",No
+29,29,"* Project page: [https://github.com/mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)
+* Instructions: [https://mlc.ai/mlc-llm/docs/get\_started/try\_out.html](https://mlc.ai/mlc-llm/docs/get_started/try_out.html)
+* Performance: 46 tok/s on M2 Max, 156 tok/s on RTX 4090.
+
+More hardwares & model sizes coming soon! This is done through the MLC LLM universal deployment projects. Besides the specific item, we've published initial tutorials on several topics over the past month:
+
+* Building instructions for discrete GPUs (AMD, NV, Intel) as well as for MacBooks, iOS, Android, and WebGPU.
+* A conversation customization mechanism that covers system prompts, roles, and more.
+* API tutorials for various programming languages, such as C++, Swift, Java, and Python.
+* REST APIs and Integrations with Gradio.
+* Installation guides for dependencies like TVM and WASM.
+
+&#x200B;",'
+30,30,"Some questions:
+
+* What are the rough edges of training models with [torch-ort](https://github.com/pytorch/ort#-training)?
+* How mature is it these days?
+* At what scale do you notice worthwhile speedups compared to vanilla pytorch? Suppose you are training models with 1 million or 10 million parameters on a single gpu. Is it worth it? 100 million parameters?",The
+31,31,"I am in an internship for 2 months (not much time) and I have to learn Al from scratch to be able to create a project concerning supervised learning. I should be able to create app and present it to owner startup. I have the basics, I need a guide to simple project or a real given base to work with",The post violates the 'Link posts must include context' rule. The post does not include any context
+32,32,"**Context:** I am working on an instance segmentation problem where I am using **PointRend** on detectron2 backend for predicting masks over car-parts in our custom datasets. Keeping the configs as is from the repo except iterations raised to 3,90,000 and batch size = 2 (reason being my colleague produced good results using the same config on a similar dataset), I fine-tuned the pretrained model on our dataset. I have the following training curves:
+
+[Loss curves](https://preview.redd.it/y17o85x58wcb1.png?width=984&format=png&auto=webp&s=c9f62255a8102b5f1065d2ce9d060f82014284d8)
+
+For sanity check, I have been saving weights at regular intervals and have made inferences on them over some handful sample images for mask quality. However, what I have observed is that out of **10368 curated polygons,** even after such long training, my model has predicted only **7401  polygons.**
+
+**Discussion Points:**
+
+1. What should I do to increase the predicted polygon numbers without compromising the quality of masks?
+2. Which hyper-parameters (or parameters) I should look into while fine-tuning (or training) for better mask quality and higher f-score?
+
+Thank you.","
+"
+33,33,"My supervisor has asked me to try to create a table in which for each ViT model (ViT-s, ViT-b, ViT-l, and ideally Swin transformers), their estimated memory requirements (given some batch size), training time (based on arbitrary hardware) and on par ResNet model is specified.
+
+I've been searching for quite a lot of time, and I absolutely can't find anything. Even the original ViT paper had no information in this regard. Do you think there's any way I can find this information? I'm afraid I don't have access to my supervisor until next week to ask, and I can't wait that long.",As
+34,34,"I've got model pretraining running on NanoGPT for a GPT2 tokenized dataset and a TokenMonster tokenized dataset, so I can compare the difference. It's only a 100M parameter model, so it doesn't do much.
+
+What benchmark can I use? NanoGPT runs on Pytorch, so I could use something that integrates with PyTorch, or I could use something that sends text prompts and analyzes text responses (or token IDs.)
+
+Is there a standard benchmark that uses the full, non-instruct trained format? For example:
+
+    Answer the following questions:
+    Question: What is the capital of France?
+    Answer: Paris.
+    Question: What is the opposite of up?
+    Answer:
+
+The model is only 100M parameters and not instruct trained, so it usually just rambles instead of answering. But anything that gives me a quantifiable result that can compare 2 models for quality is useful. I have loss and perplexity already, but it's not enough.",As
+35,35," Hi all,  
+I  am currently trying to improve synthetically generated images (not by  AI) in a particular domain. I have a dataset with real images of the  domain and one with synthetic data. If I now train a classifier to say  whether an image is real or synthetic, after a short ""time"" the  classifier has a very high accuracy with a very high confidence. Then I  have two cases.
+
+**First case**:  
+In the next step I change my synthetic images (e.g. by a bayer pattern) and the confidence of the classifier decreases.
+
+**Second case**:  
+Alternatively, if I simply take synthetic images from another domain, the confidence also drops.
+
+**How can I prove or check that I am still in the right domain in the first case?**  
+I am happy about any help!",As
+36,36,"Gymnasium v0.29.0 is out! This release includes 6 months' worth of bug fixes and new features. In particular, it deprecates several features: `Wrapper.__get_attr__`, `gymnasium.make(..., autoreset=True)`, `gymnasium.make(..., apply_api_compatibility=True)`, `Env.reward_range` and `gymnasium.vector.make` that will be removed in v1.0.
+
+Additionally, as python 3.7 has reached its end of life support, we have dropped support for it and updated MuJoCo Hopper & Walker2D models to work with MuJoCo >= 2.3.3.
+
+This release also includes an official way to cite Gymnasium. While a full paper is still some time away, you can now use the DOI 10.5281/zenodo.8127025 for citations:  [https://zenodo.org/record/8127025](https://zenodo.org/record/8127025)
+
+Announcement Tweet: [https://twitter.com/FaramaFound/status/1681479718774743040](https://twitter.com/FaramaFound/status/1681479718774743040)
+
+Release Notes: [https://github.com/Farama-Foundation/Gymnasium/releases/tag/v0.29.0](https://github.com/Farama-Foundation/Gymnasium/releases/tag/v0.29.0)",There
+37,37,Is there an ai like calligrapher ai where you can write a prompt then it will show but for the styles is there another ai that can write in your handwriting from giving it some samples?,"The post does not violate any of the rules mentioned. Therefore, 'No rule is violated.'"
+38,38,"I'm interested in detecting a subsequence as being anomalous or not. If we imagine that there's a prediction model that can forecast some number of forward steps and we can compare this prediction with the observation, we can get the errors at each time point. Then perhaps one possible way of detecting whether a sequence is anomalous is to get the mean error within the sequence and compare it with the distribution of the mean of the mean of errors of sequences which is calculated from validation data. For example, this distribution may be Gaussian. However, this method sounds a bit naïve since for it to work it would have to assume independence between the errors and some other properties. What could be some other ideas for anomaly scoring methods for the task?",As
+39,39,"Hey [r/MachineLearning](https://www.reddit.com/r/MachineLearning/), we've released tools that make it easy to test LLaMa 2 and add it to your own app!  
+Model playground here: [https://llama2.ai](https://llama2.ai/)  
+Hosted chat API here: [https://replicate.com/a16z-infra/llama13b-v2-chat](https://replicate.com/a16z-infra/llama13b-v2-chat)  
+If you want to just play with the model, llama2.ai is a very easy way to do it. So far, we’ve found the performance is similar to GPT-3.5 with far fewer parameters, especially for creative tasks and interactions.  
+Developers can:  
+\* clone the chatbot app as a starting point ([https://github.com/a16z-infra/llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot))  
+\* use the Replicate endpoint directly ([https://replicate.com/a16z-infra/llama13b-v2-chat](https://replicate.com/a16z-infra/llama13b-v2-chat))  
+\* or even deploy your own LLaMA v2 fine tune with Cog ([https://github.com/a16z-infra/cog-llama-template](https://github.com/a16z-infra/cog-llama-template))  
+Please let us know what you use this for or if you have feedback! And thanks to all contributors to this model, Meta, Replicate, the Open Source community!",As
+40,40,"[https://about.fb.com/news/2023/07/llama-2/](https://about.fb.com/news/2023/07/llama-2/)
+
+[https://ai.meta.com/llama/](https://ai.meta.com/llama/)",No rule is violated in the post.
+41,41,"Looks like a better model than llama according to the benchmarks they posted. But the biggest difference is that its free even for commercial usage. 
+
+
+https://ai.meta.com/resources/models-and-libraries/llama/","The post does not violate any of the rules listed above. It does not contain any offensive behavior, insults or attacks, and does not lack insight or effort. It also includes context and is relevant to"
+42,42,"I have to choose one of the two elective for the next sem.
+
+My Questions are:
+
+1. What is Information Retrieval and Data Intelligence?
+
+2. Which is more useful according to industry Requirements?
+
+3. *Which one should I take as someone who wants to pursue a career as a Machine Learning Engineer or a Data Scientist?*",The post violates the no link post rule during non-weekend
+43,43,"Hello, I am writing a thesis about machine learning and I want to explore the usage of ML in the prediction of both physical and social behaviours.
+
+For a little more details: I want to see if we can use ML to develop physics simulations that are not limited to our knowledge of physics, as one would just use the things that happen in real life to train the AI. I would also like to explore the usage of a similar algorithm to predict the actions of crowds (which could, for example help predict how the stock market will evolve or things like that)
+
+I would like to see what people here think about this idea, so could you please give me your honest opinion with a quick explanation of why, so I can maybe get a better insight into this other than my own
+
+I personally think it might work but it doesn't seem to make much sense in the physical predictions because we already have a pretty decent understanding of how things interact together in the macroscopic world (maybe quantum physics might be an interesting one to explore?) but I think it would be viable in cases in which we understand less but still have a lot of data.",This
+44,44," 
+
+Hello everyone,
+
+I've embarked on a project involving Unity's ML-Agents toolkit, and I've hit a roadblock regarding GPU utilization. My system is equipped with an AMD GPU, and I'm aware that most machine learning libraries and tools mainly support NVIDIA GPUs due to their compatibility with CUDA.
+
+Has anyone here successfully gotten ML Agents to work optimally with an AMD GPU? If not, are there any alternative methods or libraries you recommend that work well with AMD GPUs?
+
+So far, my attempts with TensorFlow and PyTorch have been met with limited success due to their restricted support for AMD GPUs. I've been exploring other potential options like PlaidML and OpenCL, but I'd love to get some input from this community.
+
+Any suggestions or resources on tackling this issue would be hugely appreciated. Thank you!",It
+45,45,"
+If this post content is something you are expert in and would like to work with me to accomplish these goals as part of my team I am able to compensate you. I am currently building my team.
+
+I have pictures of a 3d printed part that I have sequentially lit by different small light sources, each positioned at a known 3d location relative to the part. The lights are less than 2 meters from the part.  Each light casts specific shadows on the part. I measure the size of the shadows and relate them to the angular direction to the origin of the light (2D bearing). My next prototype has photodiodes that I will use to measure the % of shading on each diode by photoexcitation as a voltage. I want to build a pattern recognition model to relate the two outputs to the incident angle of light. This is so in the future I can output the bearing direction towards a light source with an unknown 3d relative position via voltage, and be able to validate the voltage data from images.
+ 
+Please guide me towards a Machine Learnig platform or engine (for lack of me knowing a better term) that could take this data (% surface shading & voltage) as input and learn how to extract the 2d bearing (and more) from sensor to light source.
+
+ Thanks",No
+46,46,"The AI4Code reading group is back with Aaron Parisi, Google researcher and lead author of TALM, a framework for augmenting language models with arbitrary tools.
+
+Free RSVP: [https://lu.ma/mw5ppi46](https://lu.ma/mw5ppi46)  
+Paper: [https://arxiv.org/abs/2205.12255](https://arxiv.org/abs/2205.12255)  
+🗓 July 27th (Thursday) at 17:00 GMT+1  
+📍 Zoom  
+👥 Members of the international AI4Code research community
+
+Key ideas  
+\- Modeling tool-use via a text-to-text interface  
+\- Applying an iterative self-play technique to bootstrap high performance on tasks with few tool-use labelled examples
+
+TALM consistently outperforms a non-augmented LM on both a knowledge task (NQ) and reasoning task (MathQA).
+
+*The  AI4Code meetup community consists of like-minded researchers from  around the world that network, discuss and share their latest research on AI applications on source code.*",No
+47,47," What services/libraries could I use if I wanted to, say, upload 100+ images and ask it to identify what each image is of? I know that in Bard for example I can upload one image at a time and it'll idenitfy it for me, but I want to do this at scale. Anyone know of any python libraries or OCR services that I could use for this? ",The post does
+48,48,"Anthropic, a company founded by former researchers from OpenAI, has recently introduced its upgraded chatbot, Claude 2.
+
+Claude 2 has arrived five months after the initial release of its predecessor, Claude, and brings notable improvements such as longer responses, more up-to-date information, faster speeds. One of Claude 2's standout features is its ability to process up to 100,000 tokens, equivalent to 75,000 words, in a single prompt. This is a significant improvement from Claude's previous limitation of 9,000 tokens.
+
+However, there is one problem with it, currently Claude AI chat is available in UK and US only. While it’s claimed that other regions are soon to follow, the exact timeline remains unclear. Though Anthropic Claude is easily accessible with a VPN. **Here are quick steps how to access it if you’re not living in UK or US:**
+
+&#x200B;
+
+***1.*** **Buy a VPN provider of your choice that has in UK or US servers** (most VPNs will have them since these are the main markets for them). This r/vpn [comparison table](https://www.reddit.com/r/VPN/comments/m736zt/vpn_comparison_table/) could help you decide which provider to choose and offers nice discounts for some providers;
+
+***2.*** **Open VPN app**;
+
+***3.*** **Connect to US or UK server**. For the best speed and user experience, it’s recommended to connect to a server from whichever country is closer to your current location;
+
+***4.*** **Login/Sign-up on Claude AI webpage**. You can successfully log in using your personal email address. Using Incognito mode on your browser might be required;
+
+***5.*** **Enjoy your easy access to Claude AI despite not being located in US or UK!**
+
+&#x200B;
+
+Hope this helps someone, happy using!",The
+49,49,"i'm looking for code implementation of [https://hyperdreambooth.github.io/](https://hyperdreambooth.github.io/)
+
+it'd be amazing if anyone can point to a repo or something
+
+thankyou",The post violates the rule 'Posts that lack insight or effort will be removed.' The post is asking for code implementation of a link without providing any context or effort.
+50,50,"General question about population stratification in machine learning:
+
+If I am interested in the important features for disease prediction in women only, is it worth stratifying my sample to women-only? I.e do ML algorithms account for gender differences? I have men and women in the dataset but I am interested in a disease that seems to be diagnosed in women later than men.",No rule is violated
+51,51,"Paper: [**https://arxiv.org/abs/2307.08621**](https://arxiv.org/abs/2307.08621)
+
+# Retentive Network: A Successor to Transformer for Large Language Models
+
+[Yutao Sun](https://arxiv.org/search/cs?searchtype=author&query=Sun%2C+Y), [Li Dong](https://arxiv.org/search/cs?searchtype=author&query=Dong%2C+L), [Shaohan Huang](https://arxiv.org/search/cs?searchtype=author&query=Huang%2C+S), [Shuming Ma](https://arxiv.org/search/cs?searchtype=author&query=Ma%2C+S), [Yuqing Xia](https://arxiv.org/search/cs?searchtype=author&query=Xia%2C+Y), [Jilong Xue](https://arxiv.org/search/cs?searchtype=author&query=Xue%2C+J), [Jianyong Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+J), [Furu Wei](https://arxiv.org/search/cs?searchtype=author&query=Wei%2C+F)
+
+>In this work, we propose Retentive Network (RetNet) as a foundation architecture for large language models, simultaneously achieving training parallelism, low-cost inference, and good performance. We theoretically derive the connection between recurrence and attention. Then we propose the retention mechanism for sequence modeling, which supports three computation paradigms, i.e., parallel, recurrent, and chunkwise recurrent. Specifically, the parallel representation allows for training parallelism. The recurrent representation enables low-cost O(1) inference, which improves decoding throughput, latency, and GPU memory without sacrificing performance. The chunkwise recurrent representation facilitates efficient long-sequence modeling with linear complexity, where each chunk is encoded parallelly while recurrently summarizing the chunks. Experimental results on language modeling show that RetNet achieves favorable scaling results, parallel training, low-cost deployment, and efficient inference. The intriguing properties make RetNet a strong successor to Transformer for large language models. Code will be available at [this https URL](https://aka.ms/retnet).
+
+[ Figure 1: Retentive network \(RetNet\) achieves low-cost inference \(i.e., GPU memory, throughput, and latency\), training parallelism, and favorable scaling curves compared with Transformer. Results of inference cost are reported with 8k as input length. Figure 6 shows more results on different sequence lengths. ](https://preview.redd.it/4brsylxn5pcb1.png?width=2689&format=png&auto=webp&s=1532db7f7e63e9e6d5af5130e4dc0f13f7118503)
+
+[ Figure 2: RetNet makes the “impossible triangle” possible, which achieves training parallelism, good performance, and low inference cost simultaneously ](https://preview.redd.it/b290sjxn5pcb1.png?width=1547&format=png&auto=webp&s=d4487633f154321764bf8ee5739617547dad0f1a)
+
+[ Figure 5: Perplexity decreases along with scaling up the model size. We empirically observe that RetNet tends to outperform Transformer when the model size is larger than 2B. ](https://preview.redd.it/gamd2lxn5pcb1.png?width=960&format=png&auto=webp&s=2db66b779e328dcbb9e52b41b40e7484fcad917e)
+
+[ Figure 6: Inference cost of Transformer and RetNet with a model size of 6.7B. RetNet outperforms Transformers in terms of memory consumption, throughput, and latency ](https://preview.redd.it/e7ukzjxn5pcb1.png?width=1865&format=png&auto=webp&s=5131f1bd8191aab891c48e02582eea87c06741c6)
+
+**GTP 3.5 16k summary (slightly edited):**
+
+>The research paper titled ""Retentive Network: A Successor to Transformer for Large Language Models"" proposes a new architecture called Retentive Network (RetNet) as a successor to the Transformer model for large language models. The paper addresses the limitations of Transformer models in terms of inefficient inference, high memory consumption, and limited scalability.  
+>  
+>The authors introduce the concept of retention, which combines the benefits of recurrence and parallelism. The retention mechanism supports three computation paradigms: parallel, recurrent, and chunkwise recurrent.  The parallel representation enables training parallelism, the recurrent representation allows for low-cost O(1) inference, and the chunkwise recurrent representation facilitates efficient long-sequence modeling with linear complexity. The RetNet architecture consists of multi-scale retention modules and feed-forward network modules.  
+>  
+>The retention mechanism is formulated as a dual form of recurrence and parallelism. It employs content-aware projections to compute contextualized vector representations and utilizes a parallel or recurrent formulation for training and inference. The chunkwise recurrent representation further enhances training efficiency by dividing input sequences into chunks, enabling parallel encoding within each chunk and recurrent encoding across chunks.  
+>  
+>The authors describe the overall architecture of RetNet, which consists of multiple blocks, each containing a multi-scale retention (MSR) module and a feed-forward network (FFN) module. The MSR module performs the retention operation, while the FFN module handles the feed-forward computation. The architecture is designed to optimize training parallelism, inference efficiency, and memory consumption.  
+>  
+>The paper compares RetNet with various existing models, including Transformers, Linear Transformers, recurrent neural networks, and other Transformer variants. Experimental results show that RetNet achieves comparable performance to Transformers in language modeling tasks while providing more efficient training and inference. RetNet exhibits favorable scaling properties, parallel training, low-cost deployment, and efficient inference. It outperforms other models in terms of memory consumption, throughput, and latency during inference.  
+>  
+>The authors also conduct ablation studies to analyze the impact of different components and design choices in RetNet. They demonstrate that the swish gate, GroupNorm, multi-scale decay rates, and larger head dimensions contribute to improved performance.  
+>  
+>Overall, the paper presents RetNet as a strong successor to Transformer models for large language models. Its retention mechanism combines the benefits of recurrence and parallelism, enabling efficient training and inference while maintaining competitive performance. The proposed architecture addresses the limitations of Transformers and offers advantages in terms of memory consumption, speed, and scalability.
+
+Paper: [**https://arxiv.org/abs/2307.08621**](https://arxiv.org/abs/2307.08621)",I
+52,52,"Amidst all of the stress of AI taking over, here's a light-hearted [blog post on Vector DB basics](https://medium.com/p/5bd4950bd72) including a Star Wars mini-example for you all to enjoy :) 
+
+https://preview.redd.it/n79cv8hkzocb1.png?width=1920&format=png&auto=webp&s=984d955c7d4a0e93ce36ca909835d98b65d6ee2d",No
+53,53,"I've been reading the [paper that introduced Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf) as well as the InfoNCE section on Lilian Weng's [blog post](https://lilianweng.github.io/posts/2021-05-31-contrastive/) on contrastive learning. After a while of staring and working, I can't figure out how the authors derived equation 5 in the paper. The farthest I get is finding that p(d=i|X, c\_t) = 1/(1 + \\sum\_{j=1, j!=i}\^N \[p(x\_j | c\_t) \\prod\_{l=1, l \\neq j \\neq i}\^N p(x\_l)\]), but the rest of the derivation is a mystery to me. Is there something super obvious I'm missing?",As
+54,54,"
+
+I work in an esteemed research company as a researcher n the AI center, my colleagues have PHDs and +10 years experience in the field. 
+
+Im 24 years old with bachelor’s in Electrical Engineering. I applied to Msc in AI.
+
+In the meantime I want to spend my free time accelerating my knowledge to get ready for my masters and to understand my team’s work
+
+Research papers? Python? Podcasts? Coursera?",It
+55,55,"Yesterday, I thought about why current conversational LLMs like ChatGPT are always so general. For example, I'm mostly working on Reinforcement Learning problems and would expect a model that is specifically fine-tuned on literature exclusively concerned with RL to give much better answers and more intricate details.
+
+&#x200B;
+
+Are there any papers or blog posts about this?","Based on the rules and guidelines of r/MachineLearning,"
+56,56,"Noob here- looking for directional guidance on what (if at all) would it take to create an unsupervised model for predicting stock/index performance.
+
+**Question: is there a way to create an unsupervised model to understand how a particular index/stock will perform based on news events types and/or stock movement? I understand that institutional investors have complex models that can track that but those are not available for retail investors. is there a solution out there for retail investors that can provide such signals before retail investors catch wind?**
+
+Context: I was catching up recently with my close friend who understands a certain stock index really well and intuitively figures out how based on certain news events, it would directionally move in a certain direction. He is able to generate \~40-50% returns year over year via his understanding of events impacting just this index.  He went onto sharing many examples on what drives his intuition (Eg: growth of certain hardware stock based on news about them talking about making GPUs similar to those that the largest GPU manufacturer made, growth of defense stock based on news Ukraine war and US decision to support it etc.)",The
+57,57,"So for the past six months I have been working on a domain adaptation research problem. I wanted to inspect/understand the inherent capability of SSL methods to extract domain invariant features. For this purpose I have been conducting different kinds of experiments.There is a very nice library called [lightly](https://github.com/lightly-ai/lightly)  that contains the implementations of all published SSL methods, This made things very easy for me in terms of writing code. I am not a PhD student or don't have significant research experience. My guide/mentor is very interested in the work I'm doing and she aims to publish our work in somewhere like a NeurIPS, ICML or so.
+
+Probably because of my lack of experience, I am overlooking into things or I am genuinely concerned. I just don't want to make stupid coding or code related errors and report wrong results.  I just want to know if its mandatory to use the official implementations of every method I'm benchmarking.or example, SimCLR's official implementation is in Tensorflow and I am using PyTorch. Using official implementation would introduce these kind of bottlenecks and slow down my experimentation process. Any advices on this would be greatly appreciated. Thanks.",As
+58,58,"So i am trying to create a super resolution images using something called SRGAN (Super Resolution GAN) from this paper: [https://paperswithcode.com/method/srgan](https://paperswithcode.com/method/srgan)
+
+Due to unavailability of performance power I am using Kaggle ([https://www.kaggle.com/code/atmancoder/pytorch-srgan](https://www.kaggle.com/code/atmancoder/pytorch-srgan))  p100 GPU to train the model and generate outputs to compare with the  high resolution images, The dimensions of the low-res images are 64 x  64, and the output super resolution and high quality images are 256 x  256. I would really appreciate if anybody could help regarding why I am getting such images which are different from the original high res. and also some glitch spots also.
+
+I am getting such results:
+
+https://preview.redd.it/qeygancsxmcb1.png?width=520&format=png&auto=webp&s=0f02a52da7962e350ed593b484ec64de58c1f69a
+
+I  did a total of almost 80 epochs, I trained it for 40 epochs i got  similar results as above then i trained it for another 40 epochs  overnight and I got the same results as above.
+
+[left: low-res   middle: super res   right: original high-res](https://preview.redd.it/telnsyotxmcb1.png?width=1600&format=png&auto=webp&s=a16793c33dc2d1d9bcfc53bc070a0d502c563e8c)
+
+You  all can checkout the kaggle notebook and the outputs. I am new in this  reddit platform and also in the generative platform so i would really  appreciate some help.",I
+59,59,"### 💥 How Underdog AI Companies Will Crush Silicon Valley Giants.
+
+##### [Opportunities in AI: Creating Abundant Intelligence.](https://baincapitalventures.com/insight/opportunities-in-ai-creating-abundant-intelligence/)
+
+* Generative AI like ChatGPT brings complex tasks within reach and is set to transform society. Startups have an opportunity in applying AI to create ""abundant intelligence"".
+* In the past year, **ChatGPT, GitHub Copilot, and Midjourney have rapidly grown to $100M+ revenue.**
+* AI startups face competition from tech giants also moving quickly into AI. Startups must pick spots where they have an advantage.
+* Opportunities exist in **expanding the application universe into new greenfield opportunities like automating mundane decisions, masking workflow complexity, and reimagining applications.**
+* Infrastructure tools make models more powerful by chaining them together and improving accuracy. **Opportunity areas include unstructured data management, agent-driven automation, model evaluation, and experimentation.**
+* Key players emerging are foundation model providers like OpenAI and Anthropic, companies building domain-specific models, and platforms for autonomous agents.
+* Advantages exist for **startups focused on imagination and technical ability to find non-obvious ideas, while large companies retrofit existing businesses.**",As
+60,60,"We introduce **Semantic-SAM**, a universal image segmentation model to enable segment and recognize anything at any desired granularity. We have trained on the whole **SA-1B** dataset and our model can **reproduce SAM and beyond it**. Training and inference code is available!
+
+🔥**code & demo link**: [https://github.com/UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM)
+
+🔥**paper link**: [https://arxiv.org/pdf/2307.04767.pdf](https://arxiv.org/pdf/2307.04767.pdf)
+
+### 🚀 Features
+
+🔥 **Reproduce SAM**. SAM training is a sub-task of ours. We have released the training code to reproduce SAM training.
+
+🔥 **Beyond SAM**. Our newly proposed model offers the following attributes from instance to part level:
+
+* **Granularity Abundance**. Our model can produce all possible segmentation granularities for a user click with high quality, which enables more **controllable** and **user-friendly** interactive segmentation.
+* **Semantic Awareness**. We jointly train SA-1B with semantically labeled datasets to learn the semantics at both object-level and part-level.
+* **High Quality**. We base on the DETR-based model to implement both generic and interactive segmentation, and validate that SA-1B helps generic and part segmentation. The mask quality of multi-granularity is high.
+
+https://preview.redd.it/trhz1dfs5mcb1.png?width=5307&format=png&auto=webp&s=5523d18d07abe3e80cc9fdd0fe29fcf0cd8c0751
+
+🔥One simple click to output up to **6** **granularity** masks! More **controllable** to match user intents compare with SAM.
+
+https://preview.redd.it/546wx6lv5mcb1.png?width=8900&format=png&auto=webp&s=9f3c971b9f62b5060ebf002ee66396f93a40d333
+
+🔥 Segment everything for one image. We output **more masks with more granularity**.
+
+https://preview.redd.it/ethkjrgy5mcb1.png?width=3529&format=png&auto=webp&s=d76e0d22d2878cba1cb384b9b450c54a49ccf0a9
+
+Our model supports a wide range of segmentation tasks and their related applications, including:
+
+* Generic Segmentation
+* Part Segmentation
+* Interactive Multi-Granularity Segmentation with Semantics
+* Multi-Granularity Image Editing
+
+🔥**Comparison with SAM and SA-1B Ground-truth**
+
+https://preview.redd.it/s8orarm56mcb1.png?width=1688&format=png&auto=webp&s=ba8f3cde61459311db5ed26fd6a3ad39285012e9
+
+(a)(b) are the output masks of our model and SAM, respectively. The red points on the left-most image of each row are the user clicks. (c) shows the GT masks that contain the user clicks. **We have better quality and granularity compared to SAM.**
+
+🔥**Learned prompt semantics**
+
+https://preview.redd.it/8ofgehl66mcb1.png?width=2488&format=png&auto=webp&s=ceb009ea554f33ea6fbca2a04bde1731203ceb56
+
+We visualize the prediction of each content prompt embedding of points with a fixed order for our model. We find all the output masks are from small to large. This indicates **each prompt embedding represents a semantic level**. The red point in the first column is the click.
+
+**🔥Method and Experiments**
+
+https://preview.redd.it/jtmfmdy86mcb1.png?width=3542&format=png&auto=webp&s=8ab75682f86b705890dcf00c28c2af1f4112ab57
+
+https://preview.redd.it/k1iansx96mcb1.png?width=1596&format=png&auto=webp&s=c0aaba16faf4d0f087ddd934df3f7074e165ce0c
+
+We also show that jointly training SA-1B interactive segmentation and generic segmentation can improve the generic segmentation performance. We observe some **data scaling laws i**n training SA-1B data, and hope this could help those people who want to use SA-1B data more efficiently (refer to our paper).
+
+We also **outperform SAM on both mask quality and granularity completeness**, please refer to our paper for more experimental details.",It
+61,61,"I'm working on building an application and I want to have a chatbot that has the opinions and thoughts of a particular person.
+
+I want to train this on my own. I have a large corpus of data that I can use for this training. I am not sure which existing foundation model / model architecture I should use for training this.
+
+I fine-tuned a GPT2 model earlier but the results were very poor. Maybe it has to do with the data?",The
+62,62,"Twitter thread: https://twitter.com/tri_dao/status/1680987577913065472
+
+Tech report: https://tridao.me/publications/flash2/flash2.pdf","The Twitter thread and the technical report do not violate any of the specified rules in the post. Therefore, 'No rule is violated'.
+What other types of content or links are not allowed on this subreddit, and"
+63,63,"I’ve been working on a side project that utilises the segment anything model for satellite imagery, but allowing it to run purely as a web application (no need to run the model locally on a powerful PC).
+
+The intention is to provide a quick and easy “AI assisted” way to segment imagery and save time on digitisation tasks, and then export it to your GIS application of choice (QGIS or ESRI software support the export format, which is GeoJSON).
+
+[The demo video is here](https://youtu.be/Vs1nFzO7zy4)
+
+If anyone wants access to the online demo shown in the video, just message me and I can give you the link and demo credentials.
+
+I’m hoping there is some use for it to GIS folks :)",No
+64,64,"I played with Claude 2 this weekend and overall really impressed, especially for summarizing pdfs and other text documents.
+
+I gave it [Microsoft's Q2 financial statement](http://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/MSFT_FY20Q3_10Q.docx?version=cf5bff82-b3fe-60ad-0de4-821fee8f2aa0), and Claude did a good job with most questions, including over tabular data.
+
+**Anyone know how it parses tabular data from documents? I can see the extracted lines but wondering how they get used. Is there a preprocessing step of creating embeddings from it?**  
+
+
+https://preview.redd.it/4fnjn477vkcb1.png?width=1200&format=png&auto=webp&s=fa235bbcbd4d2954fae5908a904cd5d7f17658c8
+
+Some more details from my experiment in [this thread](https://twitter.com/qadri_sarmad/status/1680352200827043841?s=20).",As
+65,65,"By now, most of us who tried have realized that the ""autonomous LLM agents"" are not really useful at the moment. We need to create applications that are helpful, predictable and reliable that will produce acceptable results, in place of endless toil to get these agents to do something. We really just need good, specific LLM products that can do at least one thing properly, like - doing some research, writing a report, summarizing content - things an LLM might actually be good at.
+
+So we thought it would be a good idea to create a framework that makes use of [LoopGPT](https://github.com/farizrahman4u/loopgpt) agent's memory and custom tooling capabilities. Let's jump right into the new features of this framework.
+
+First, using LLMs within Python functions, where you only write the function's docstring and the LLM will return the result as a valid python literal whenever you call the function.
+
+This is achieved by using the `loopgpt.aifunc()` decorator:
+
+    @loopgpt.aifunc()
+    def shakespearify(text: str) -> str:
+        """"""Applies a shakespearian style to the given text and returns it.
+    
+        Args:
+            text (str): Text to apply shakespearian style to.
+        
+        Returns:
+            str: Text with shakespearian style.
+    
+        """"""
+    >>> shakespearify(""Hey man, how you doin? I was just heading to the store ya know"")
+    'Hark, good sir! How art thou faring? I was but making my way to the market, dost thou know.'
+
+You can add tools for the function to collect data from (e.g., GoogleSearch,  Browser, etc.):
+
+    @loopgpt.aifunc(tools=[GoogleSearch])
+    def find_age(celeb: str) -> int:
+        """"""Searches Google for the celebrity's age and returns it.
+        
+        Args:
+            celeb (str): Name of the celebrity.
+        
+        Returns:
+            int: Age of the celebrity.
+    
+        """"""
+    >>> find_age(""Robert De Niro"") + find_age(""Al Pacino"")
+    162
+
+Agents can now ""watch"" tools being run and any AI functions being called in their context can access their memory:
+
+    @loopgpt.aifunc()
+    def outline_maker(topic: str) -> str:
+        """"""Writes an outline of the given topic.
+    
+        Args:
+            topic (str): Topic to write an outline about.
+        
+        Returns:
+            str: Outline of the topic.
+    
+        """"""
+    
+    search = GoogleSearch()
+    browser = Browser()
+    agent = loopgpt.empty_agent()
+    
+    with agent:    # the agent will ""watch"" the searching and the browsing
+        results, links = search(""SVB Banking Crisis"")
+        for i in range(2):
+            browser(links[i])
+        
+        outline = outline_maker(""SVB Banking Crisis"")    # this AI function can access the memory of 'agent'
+    
+    print(outline)
+    
+    1. The collapse of Silicon Valley Bank (SVB) and its impact on the crypto market.
+    2. The closure of SVB leading to a bank run at Signature Bank.
+    3. Regulators intervening to prevent a larger financial meltdown.
+    4. The FDIC attempting to make all depositors whole, regardless of insurance.
+    5. Government investigation into SVB's failure and stock sales by financial officers.
+    6. Moody's downgrading the outlook on the U.S. banking system.
+    7. Other banks being placed under review for a downgrade.
+    8. Proposed legislation by Sen. Elizabeth Warren and Rep. Katie Porter to strengthen bank regulations.
+    9. Banking crisis reaching Europe with Credit Suisse losing share value.
+
+We also created a very small application on the side to demonstrate the use of our framework, [ResearchGPT](https://github.com/FayazRahman/research-gpt). It can research topics on the web and generate arbitrarily long PDF or txt reports on them (it is still a work in progress).
+
+Try our stuff out and tell us what you think. Any feedback is appreciated.",As
+66,66,"Hello, fellow machine learning aficionados!
+
+As everyone is aware, machine learning is transforming a wide range of sectors, including healthcare, banking, entertainment, and transportation. But have you ever stopped to think about the more subtle effects it's causing in our day-to-day activities?
+
+Think about this Machine learning is the technology behind the targeted advertisements you see online, the intelligent email client suggestions for replies, the traffic predictions on your GPS, and even the song suggestions on your favorite music app.
+
+But this is where things become intriguing. I'm interested in hearing about the most imperceptible yet significant ways you've seen machine learning in action in your day-to-day activities. It could be as straightforward as a practical component in an app you frequently used or a big shift in your work process.
+
+Here's my observation to start the discussion: Thanks to machine learning, I've seen that over time, my smart home appliances have gotten better at comprehending my orders. I now seldom ever have to repeat myself, and it seems like the gadgets are actually ""learning"" what I want.
+
+I'm eager to hear your insights. Let's explore machine learning's covert revolution together, eh?",This
+67,67,"
+hi all,
+
+I developed a small inference library in C++ that can run Stable Diffusion in 260MB of RAM.
+
+The minimum recommended RAM/VRAM for SD is 8GB.
+
+This is achieved by offloading the weights on disk, by quantization and attention slicing (which is similar in principle to FlashAttention, without the fused kernel).
+
+It currently supports 24 ONNX operators.
+
+The idea is to allow the inference of very large (transformer) models on very limited devices.
+
+More info in the GitHub repo: https://github.com/vitoplantamura/OnnxStream
+
+Thanks, --Vito",As
+68,68,"I recently made a new JupyterLab extension called [Chapyter](https://github.com/chapyter/chapyter) (𝐂𝐡𝐚ts in Ju𝐏𝐲𝐭𝐞𝐫) that aims at solving many pain points when using other AI coding assistants. I want to share with y'all the tools as well as my thinkings while building this.
+
+**What is Chapyter**
+
+Chapyter is a JupyterLab extension that seamlessly connects GPT-4 to your coding environment. Here are the key features: 
+
+* **Code generation from natural language and automatic execution**   
+Simply adding the magic command `%%chat` at the beginning of the cell of a natural language description of the task, the code is generated and the results are shown in a few seconds.
+
+https://i.redd.it/y7l0s9pf5hcb1.gif
+
+* **Using coding history and execution output for code generation**  
+By adding the `--history` or `-h` flag in generation, chapyter can use the previous execution history and outputs to generate the appropriate visualization for the loaded IRIS dataset.
+
+&#x200B;
+
+https://i.redd.it/7pu6cbug5hcb1.gif
+
+* **In-situ debugging and code editing**  
+The generated code might not be perfect and could contain bugs or errors. Since Chapyter is fully integrated into Jupyter Notebook, you can easily inspect the code and fix any errors or bugs (e.g., installing missing dependencies in this case) without leaving the IDE.
+
+&#x200B;
+
+https://i.redd.it/mz4n4qsh5hcb1.gif
+
+* **Transparency on the prompts and AI configuration and allows for customization**  
+We release all the prompts used in our library and we are working on easy customization of the used prompts and settings.
+* **Privacy-first when using latest powerful AI**  
+Since we are using OpenAI API, all the data sent to OpenAI will not be saved for training (see [OpenAI API Data Usage Policies](https://openai.com/policies/api-data-usage-policies). As a comparison, whenever you are using Copilot or ChatGPT, your data will be somewhat cached and can be used for their training and analysis.
+
+**Why did I build Chapyter?** 
+
+* Sometimes, I want to have an AI agent to *take over* some coding tasks, i.e., generating and executing the code and showing me the results based on some natural language instruction.
+* I want the AI agent to be fully integrated in my IDE such that it can provide context-aware support and I can easily inspect and edit the generated code. 
+* I want transparency on how the code is generated (knowing the prompts) and want to customize the code generation sometimes
+* I want to keep my code and data private as much and I am hesitant to upload any WIP progress code/data elsewhere.
+
+Surprisingly or unsurprisingly, NONE of any existing AI coding assistants like GitHub Copilot or ChatGPT Code Interpreter can satisfy all of the above requirements. We include more details here in our [blogpost](https://www.szj.io/posts/chapyter). 
+
+Please check our Github Repo [Chapyter](https://github.com/chapyter/chapyter) and our [latest blogpost](https://www.szj.io/posts/chapyter) for more details. Feel free to try it out and looking forward to your thoughts :)",There
+69,69,"Hello,
+
+I've been curious as to how far we can take small(7B and less) models for production use cases with small amounts of training data for each task.
+
+So far I've been able to fine-tune LoRAs for paraphrasing, changing the tone of a sentence, dialogue summarization and topic generation. The results look promising, especially the fact that all this can run on very modest hardware.
+
+Finetuning was done in 4bit mode using bitsandbytes. Each task had \~1k training points.
+
+I've used a AMD Ryzen9 3900XT + 3080(10gb) + 32gb ram for all the training and inference here. On my system I get 12-15 tokens/sec during inference.
+
+All the details can be found here: [https://github.com/kuutsav/llm-toys](https://github.com/kuutsav/llm-toys).
+
+* Data used for training
+* Training params and the training/eval losses are present in the huggingface model cards
+* Evaluation(wherever possible atm)
+
+Models: [https://huggingface.co/llm-toys](https://huggingface.co/llm-toys)
+
+Why do all this?
+
+Mostly to answer the question - can we move away from OpenAI and other players for very particular use cases, how much data it takes, where does it break, etc. So far I've not been able to find pre-trained model(7b and small) that did well on these tasks. Even larger models(around 40b) failed to give consistent results. The fine-tuned model on huggingface were also not good enough in my trials. For paraphrasing I could not find even a single fully tuned model that was able to correct basic typos.
+
+Do give it a shot, there is a colab notebook available as well try it directly. Will really appreciate some feedback on these model's performace.",The
+70,70," 
+
+We're DeHack, a **Web 3.0** security startup in **Dubai**. We're looking for a **Machine Learning** enthusiast who understands blockchain. Part-time or full-time.
+
+We're the team behind BlockAudit, now building **DeHack** **- Threat intelligence and mitigation product**. We're at an exciting stage with venture funding talks underway. It's a huge opportunity for someone who wants to work at the intersection of ML & Web 3.0. If you've worked on Threat Anomaly detection models, even better.
+
+For the perfect fit, we're open to discussing **equity compensation** as part of the package.
+
+Sounds interesting? Get in touch!
+
+www.DeHack.ai
+
+akshay@dehack.ai
+
+TG: u/DeHack_Akshay",No
+71,71,"I need to benchmark the performance of [my tokenizer](https://github.com/alasdairforsythe/tokenmonster) against standard tokenizers. It would be best for reproducibility if I benchmark against an existing model on a standard benchmark, swapping out the existing tokenizer for my tokenizer.
+
+I was planning to train TinyStories model for the comparison, but what would I benchmark other than perplexity? Is comparing perplexity enough to benchmark the performance of two models trained on the same dataset? Or what is best for that?
+
+Can anyone recommend a repo (if any exist) that:
+
+1. Pretrains a transformer based model from scratch.
+2. Has some kind of accuracy benchmark that will be taken seriously.
+3. Can be modified to use a different tokenizer.
+4. Can be pretrained on an RTX 3090 within 24-48 hours.
+
+If there's a repo somewhere that both pretrains on a benchmark dataset and applies a suitable benchmark automatically that would be amazing.
+
+As you can tell I'm unsure how best to go about doing the benchmark. Any advice would be appreciated.",As
+72,72,"Let me introduce you to our latest research on **Prompt Performance Prediction** (PPP). **PPP** is a novel task which aims to predict a query's performance in Generative Information Retrieval systems before the search results are generated. This can be applied on any generative system (textual, image, etc.).  
+
+Here we consider the image generation task as a generative retrieval one and adapt the well known query performance prediction in traditional information retrieval field to modern generative information retrieval.  
+
+Preliminary results across three datasets (Dall-E, Midjourney, Stable Diffusion) on different metrics (Aesthetic, memorability, etc.) show promising capabilities of our method in performance prediction.
+🔗 For a more detailed look, visit: https://arxiv.org/abs/2306.08915
+
+**Prompt Performance Prediction for Generative IR**, Bizzozzero, Bendidi, Risser-Maroix, 2023
+#AI #GenerativeAI #MachineLearning #PromptPerformancePrediction #PPP",The
+73,73,"The following offer might be more suited for a research-oriented site like math stack exchange/overflow, but I don't think they allow posts like this, so here I am.
+
+Me (a postdoc, the main author) and two other co-authors (legit academics) have written a statistics paper where we develop a new smoothing technique on half-spaces. The paper is almost done except for one section that's currently (almost) empty. In that section, we would like to show how the smoothing technique can be used to classify new data points in the context of soft-margin support vector machines (SVM). The aim would be something like 2-3 pages with 1-2 figures, but the collaborator would have the freedom to do what he/she thinks is best.
+
+So I am looking for someone who has more experience with machine learning or just SVMs to fill up this section themselves. They would of course become co-author of the paper. I cannot guarantee anything, but we aim to publish the paper in a low Q1 journal, so a good journal.
+
+If someone is hungry for publications (PhD student, postdoc, young prof) and you have experience with this kind of stuff, this is a relatively low-effort way to upgrade your CV.
+
+If you're interested, just PM me, more details will be given.",No
+74,74,"Hello everyone,
+
+We are conducting benchmark evaluations on large language models, and the **preliminary results are quite interesting** for AI researchers to investigate further. We have tested various models, including LLama variants, but unfortunately, we are unable to use LLama at this time due to licensing restrictions.
+
+We have applied for the necessary license from Meta multiple times over the past few months but have not received a reply. If anyone has an existing LLama license they would be willing to share, we would greatly appreciate the help. In exchange, we would be happy to share a preprint of the paper and acknowledge your contribution.
+
+We understand this is an unconventional request, but licensing can be a difficult roadblock in research. Any assistance would allow us to better understand the capabilities of different models. Please let us know if you can help.
+
+Thank you for considering!",This
+75,75,"Hi everyone, Is there any way we can use the Donut base model for its original Pre-Training task i.e pure OCR output without any specific fine-tuning head. 
+I could find the base model on hub, but I don't know the exact configuration to use for the generate method or even for decoder.",There is no violation of any of the given rules in the post.
+76,76,"Which open source project is recommended for creating an app that can synchronize a person's lip movements in a video with different audio?  
+
+
+I'm looking for recommendations in the machine learning community. I want to build an app that can synchronize a person's lip movements in a video with different audio. Are there any open source projects you would suggest for this task? I appreciate any insights or suggestions. Thank you!",The post
+77,77,,"As an AI language model, I cannot determine which specific rule has been violated as I do not have access to the post in question and I do not know the context surrounding it. Please provide more information and I will try to help."
+78,78,"Hello all!
+
+I recently started learning about CUDA programming, and I realized that many people share the same crucial problem: lack of an NVIDIA GPU. I looked around online and found several methods (gpu-ocelot, certain versions of CUDA, etc.), but I recently found a way that can allow us to practice CUDA by using the GPU offered by Google Colab! As a free user, the amount of GPU access you get may probably be enough to PRACTICE working with CUDA. If you really need more credits, the Colab Pro is only $10 / month, and it's still much cheaper than getting a new GPU or an entire new PC if you have a Macbook like I do. Again, the justification of ""enough computing credits"" is based on the assumption that you aren't running any heavy-lifting programs but more reasonable, **practice-based** codes.
+
+I have outlined a step-by-step guideline in this repo that I created - just check out the `CUDA_on_Colab.ipynb` file: [https://github.com/notY0rick/cuda\_practice](https://github.com/notY0rick/cuda_practice)
+
+If you know of any good alternatives, let me know (:
+
+Update: To those asking for resources, I just started, but I intend to follow along this book - Professional CUDA C Programming by John Cheng, published by O'Reilly.
+
+Update 2: some people asked how they can edit C++ code on Colab, and if you follow the steps on the notebook I linked in my GitHub repo above, you should reach this configuration in your Colab, and this will allow you to write/edit your code and run them however you want! On the left side, you can execute your commands and on the right panel, you can directly write code!
+
+https://preview.redd.it/auzre83gjhcb1.png?width=4371&format=png&auto=webp&s=3f22c86d2c4a2d5e696c8f935378f966d65a607d",No
+79,79,"Suppose I observe a single realization of a 2D [Gaussian random field](https://en.m.wikipedia.org/wiki/Gaussian_random_field). The field is inhomogenous and anisotropic, I.e. the size and shape of the blobs vary as a function of space and direction. 
+
+I would like to estimate the covariance for this field. I assume that the mean is 0. To be concrete, the field is sampled on a 128x128 grid, so the covariance matrix is 128^2 x 128^2. I know I can try tackling this problem with MLE, and GPR may also be applicable (although I’m actually not sure about this, given the field is inhomogenous), but I worry about the cost, since I have 60K such fields and would like to do this in a reasonable amount of time 
+
+I will use GPU and batch parallelism, but still would ideally be able to run this at as little cost as possible. 
+
+Does anyone have suggestions on methods I can use? If it matters, I will do this analysis in Python.",As
+80,80,"A while ago, I built rclip – a command-line image search tool powered by OpenAI's CLIP that allows users to search for images using a text query. Today I present an update to rclip that allows using another image instead of a search query to find visually similar images. Check out the video for the demo: [https://www.youtube.com/watch?v=1YQZKeCBxWM](https://www.youtube.com/watch?v=1YQZKeCBxWM). And [give it a try yourself](https://github.com/yurijmikhalevich/rclip#installation) and share your feedback.",There
+81,81,"Recently I stopped by Islas Galapagos. As a lifelong marine-biology enthusiast, I took the chance to go free-diving with sharks, penguins, marine iguanas and more. This inspired me to write an object detection pipeline to detect aquatic critters.
+
+[https://lukewood.xyz/blog/marine-animal-detection](https://lukewood.xyz/blog/marine-animal-detection)
+
+Wrote up a short blog post on the project - I hope you enjoy it!
+
+https://i.redd.it/eqcrfg2ljdcb1.gif
+
+&#x200B;",No
+82,82,"Hey everyone, I wrote a short blog post on approximating non-function, multi valued x->y mappings.  In my opinion, understanding why and how to use Mixture Density Networks is a great exercise for all researchers and practitioners.  Its very common that real world processes have multiple outcomes based on some random sampling; and naive neural networks will simply learn the geometric mean of all y for a given x.
+
+Check out the blog post in more detail - hope you enjoy it!
+
+[https://lukewood.xyz/blog/approximating-nonfunctions](https://lukewood.xyz/blog/approximating-nonfunctions)",As
+83,83,"My understanding is that talent is a key issue in large AI models. Additionally, you need quality data and a lot of compute (see [this](https://www.science.org/stoken/author-tokens/ST-1055/full)). Training large models might seem trivial, but it is not (see [this](https://www.technologyreview.com/2023/05/12/1072950/open-source-ai-google-openai-eleuther-meta/)). 
+
+I still think Inflection is miles behind OpenAI, Anthropic and obviously Google. But I am still finding it surprising that they were able to create a reasonable product in a short span without any star researcher. For instance, Anthropic has a ton of star AI scientists and engineers who left OpenAI and had the necessary background. 
+
+&#x200B;
+
+Would love to hear your thoughts. ",No
+84,84,"I spent some time reading about Knowledge Representation (specifically about the Knowledge Representation part in Knowledge Representation and Reasoning) and specifically about scientific and/or engineering knowledge and my impression after cursory reading is that it’s a largely an unsolved problem. Not only that, but it seems like very few people are actually working on something useful in the field.
+
+For example, I checked the proceeding of SCI-K and PlanetKR conferences and literally all the papers seem to be focusing on “toy problems”, as in not having even remotely practical scientific implications (other than all sorts of “search” and “data extraction”, but that’s not “representation”).
+
+Views on the topic?",The
+85,85,"Introducing a tool I developed to search videos using AI in a semantic manner. 🎞️🔍
+
+✨ Check out the live demo: https://mixpeek.com/demo
+
+You can compare and explore different search queries such as ""person dancing,"" ""people dancing,"" or even ""people dancing on a train."" and it gives you the exact timestamp.
+
+The search functionality is driven by OpenAI's CLIP for ""zero-shot"" video classification.
+
+Here's a tutorial on how we built it: https://learn.mixpeek.com/what-is-semantic-video-search/
+
+Feel free to experiment by searching with text, and share your exciting discoveries!
+
+👇 More examples https://twitter.com/ethansteininger/status/1680613114071449600",As
+86,86,"Hello,
+
+I am exploring the process of using LLM's to do some data transformation/augmentation. The use case is taking data in a JSON format thats used in one platform and with that data being able to transform it into the proper data for the other platform. Essentially the approach I was going to take would be using a paired dataset with that has the example of one platforms data and then having the output be the other platforms data for the same item.
+
+&#x200B;
+
+I'm not 100% sure about the best approach here and if anyone has any insight on using LLM's for this kind of process please let me know your thoughts. It's kinda vauge bc its for a company so I dont want to get popped for anything.
+
+&#x200B;
+
+Any insights on the proper model to use, we want to go with opensource and something that could be used commercially. 
+
+&#x200B;
+
+Thank you",There
+87,87," I'm happy to share Gabriel's post on symmetry breaking in diffusion models! Spontaneous symmetry breaking is behind the standard model of particle physics... it turns out it is also behind the generative powers of diffusion models! 
+
+In fact, spontaneous symmetry breakings happen when a systems transition from a disordered state to one of the many possible ordered states. In this case, the symmetry of the noise distribution is broken into all the possible generated images.
+
+Link: to the blogpost: [https://gabrielraya.com/blog/2023/symmetry-breaking-diffusion-models/](https://gabrielraya.com/blog/2023/symmetry-breaking-diffusion-models/)
+
+&#x200B;",I
+88,88,"Hi all,
+I would like to ask about your codebases or Frameworks wrapped around Pytorch, Tensorflow or others. How do you handle different models, different datasets, different tasks in your daily work. Does your university or company have a framework that you should use or do you build your own? Do you and your colleagues work in the same codebase? How do you maintain it? I would like to get a lot of opinions and discussion about that topic.",No
+89,89,"Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead!
+
+Thread will stay alive until next one so keep posting after the date in the title.
+
+Thanks to everyone for answering questions in the previous thread!",The previous post does not violate any of the rules in the given text.
+90,90,"Hello everyone,
+
+Im trying to build transfer learning from scratch but I dont't get the expectations results even doing everything in the right way. this is my notebook link  https://www.kaggle.com/ayoubsarab/style-transfer . could you tell me why the results aren't good, please .
+
+&#x200B;
+
+[expectation](https://preview.redd.it/2dpnmhwy5ccb1.png?width=512&format=png&auto=webp&s=33c2468fed7faf99ca1250dc279e0466603e67cd)
+
+&#x200B;
+
+&#x200B;
+
+[the real result](https://preview.redd.it/bn7jf9l26ccb1.png?width=400&format=png&auto=webp&s=9592e42bc7c4b1f88186d1073c9048e4277c10e2)",The
+91,91,Im currently learning hiw to use langchain but i heard that its bad so i want to know what are som alternatives i need memory and agents so that it can search online run code and so on so what is the best alternativ or is langchain the best option,The post does not violate any of the stated rules.
+92,92,"[https://arxiv.org/abs/2305.13534](https://arxiv.org/abs/2305.13534)
+
+**Abstract**
+
+A major risk of using language models in practical applications is their tendency to hallucinate incorrect statements. Hallucinations are often attributed to knowledge gaps in LMs, but we hypothesize that in some cases, when justifying previously generated hallucinations, LMs output false claims that they can separately recognize as incorrect. We construct three question-answering datasets where ChatGPT and GPT-4 often state an incorrect answer and offer an explanation with at least one incorrect claim. Crucially, we find that ChatGPT and GPT-4 can identify 67% and 87% of their own mistakes, respectively. We refer to this phenomenon as hallucination snowballing: an LM over-commits to early mistakes, leading to more mistakes that it otherwise would not make.
+
+[Here is a Medium post.](https://medium.com/@kentsui/paper-digest-how-language-model-hallucinations-can-snowball-baaedd3d4231)",As
+93,93,"I'm excited to share my latest creation, Private Parrot, a powerful Google Chrome extension that adds AI-generated responses to your web chats.
+
+🤐 Privacy-Focused: Private Parrot masks sensitive information in your conversations, ensuring that your personal data remains completely anonymous.
+
+⚡ Real-Time AI Assistance: Powered by **OpenAI** & **HuggingFace**, this extension leverages advanced language models to generate and complete responses instantly.
+
+📈 Expandable Web Chats: Currently supporting **Telegram** and **WhatsApp**, we have plans to integrate with more web chat platforms soon, providing a seamless experience across different chat providers.
+
+Demo: [https://www.youtube.com/watch?v=NEH3\_3oT1DY](https://www.youtube.com/watch?v=NEH3_3oT1DY)
+
+Get the extension now:[https://chrome.google.com/webstore/detail/private-parrot/fajfhpgedgeagjeninnlogilclofijmf](https://chrome.google.com/webstore/detail/private-parrot/fajfhpgedgeagjeninnlogilclofijmf)
+
+Sources: [https://github.com/lorenzoviva/PrivateParrot/tree/main](https://github.com/lorenzoviva/PrivateParrot/tree/main)",The
+94,94,"Deodel is a new predictive algorithm with a peculiar set of characteristics:
+
+- performs classification intermixed with regression
+- supports both types of attributes/features: nominal or continuous
+- admits mixed types, categorical and numerical, in the same attribute column
+- supports multi-class target prediction
+- admits missing values in the training and query/test data
+- good accuracy
+
+https://github.com/c4pub/deodel
+
+It started as a type of discrete nearest neighbor classifier and it has been extended to support continuous attribute values. The continuous values are discretized, and although this step entails a loss of information, the classification accuracy is surprisingly good in many settings. Occasionally, deodel outperforms more established algorithms like RandomForest, GradientBoostingClassifier, LogisticRegression, MLPClassifier, etc. See here:
+
+https://github.com/c4pub/misc/blob/main/notebooks/deodel_vs_sklearn_on_titanic.ipynb
+
+The latest version is also capable of doing regression. It automatically switches between classification and regression modes. It can interweave the two modes in the same predictive session.",The
+95,95,"I entirely get that federated learning can add considerable overhead to collaborative ML projects. However, the idea of being able to leverage the data of other companies/institutions for mutual gains seems like a very powerful concept. Even still, I am yet to really see federated learning ventures between companies beyond R&D projects. Is the tech to immature? People just don't care about sending data to central servers? 
+
+How long, if ever, before FL has the chance to take off?",No
+96,96,"I didn't get any jobs on upwork till now, I've been learning machine learning for 2 years now. Is it very hard and big competition to get online jobs???","This post does not violate any of the rules listed. The poster is asking a general question about their experience on a job board platform, and does not seem to be promoting any personal or professional agenda. Therefore, there is no violation of the rules and "
+97,97,"**So I had a question: can neural networks trained on ImageNet be used in zoological research? E.g., for distinguishing between similar looking animals?**
+
+For example, what would be the accuracy of these neural network in distinguishing the following types of images:
+
+1. Leopard vs Cheetah
+2. Hare vs Rabbit
+3. Crocs vs Alligators
+4. Llamas vs Alpacas
+5. Common hippo vs Pygmy hippo
+6. Kangaroo vs Wallaby
+
+I looked into the ImageNet dataset on Kaggle and it appears that a lot of these very hard-to-distinguish classes are grouped together (i.e., leopard and cheetah are treated as a single class). So NN trained on ImageNet cannot be used if one wishes to use them to distinguish these animals. Some of the animals (such as Alpaca and Aardvark, I believe) are not even contained in the dataset.
+
+Can anyone confirm my observation? Are there any other way to get around this problem with the current ML techniques without having to curate a large dataset used exclusively for this type of animal classification?",The
+98,98," 
+
+**Hi My sister is doing PG Diploma in AI and ML from Upgrad,India , below link contains the syallabus for that .She wants to purchase a laptop , Can anyone tell what is the minimum requirement specification for a data science laptop .**
+
+**1.RAM**
+
+[**2.Storage**](http://2.storage/)
+
+[**3.Graphics**](http://3.graphics/) **card**
+
+**4.any other thing or specification which i need to consider.**
+
+**Link -** [**file.io/pDvXIqIpP9Bi**](https://file.io/pDvXIqIpP9Bi)",The
+99,99,"**gpt4docstrings** is a new Python library that automatically generates docstrings for undocumented functions / classes. It allows you to generate the docstrings in multiple format styles, as you can see in the video below.
+
+**Repository here** 👉 [https://github.com/MichaelisTrofficus/gpt4docstrings](https://github.com/MichaelisTrofficus/gpt4docstrings)
+
+**Documentation here** 👉 [https://gpt4docstrings.readthedocs.io/en/latest/index.html](https://gpt4docstrings.readthedocs.io/en/latest/index.html)
+
+&#x200B;
+
+[Generating docstrings in google, numpy and reST format styles](https://i.redd.it/26tbkqwjr8cb1.gif)",As
