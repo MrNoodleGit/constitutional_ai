@@ -1,0 +1,20 @@
+name: llm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch
+  - pytorch-cuda
+  - transformers
+  - accelerate
+  - ipykernel
+  - einops
+  - praw
+  - scipy
+  - mamba
+  - ca-certificates
+  - certifi
+  - openssl
+  - ipywidgets
+  - scikit-learn
+prefix: /opt/conda/envs/llm
